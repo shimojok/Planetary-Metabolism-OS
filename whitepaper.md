@@ -94,3 +94,7 @@ PMOS is more than a software platform; it is a governance protocol for the plane
 ---
 
 _© 2024 AGRIX / Planetary Metabolism OS Project. Licensed under Apache 2.0._
+
+---
+For updates and professional networking, subscribe to our LinkedIn Newsletter:
+[The BioNexus Chronicle](https://www.linkedin.com/newsletters/the-bionexus-chronicle-7308486920618029056/)
