@@ -25,3 +25,11 @@ For the strategic background and the economic theory of the "Negative Green Prem
 ## 📖 Manifest & Vision
 For a detailed overview of the philosophy and economic impact of the Planetary Metabolism OS, please read our official manifest on Medium:
 👉 [Beyond the Green Premium: Launching the Planetary Metabolism OS](https://terravis.medium.com/)
+
+---
+### 📖 Read the Manifest
+For a deeper dive into the philosophy, vision, and planetary scale of this project, please read our official manifest on Medium:
+
+### 📖 Read the Manifest
+For a deeper dive into the philosophy, vision, and planetary scale of this project, please read our official manifest on Medium:
+👉 **[Planetary Metabolism OS: A Design for Earth’s Regenerative Future](https://www.google.com/search?q=https://terravis.medium.com/beyond-the-green-premium-launching-the-planetary-metabolism-os-pmos-83126e0bf3e3)**
