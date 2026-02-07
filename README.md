@@ -35,4 +35,6 @@ AQLA achieves a net-positive ROI by transforming organic waste into high-value h
 ---
 **For Microsoft/Google/Gates Foundation Architects:** Please refer to `/docs` for technical specifications and `/architecture` for cloud deployment blueprints.
 
+Full documentation in Japanese is available in /docs/jp.
+
 © 2026 AQLA Project / Strategic Architect: Kaz Shimojo
